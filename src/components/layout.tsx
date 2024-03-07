@@ -7,7 +7,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <ThemeProvider>
       <div>
-      {children}
+        {children}
       </div>
     </ThemeProvider>
     )
