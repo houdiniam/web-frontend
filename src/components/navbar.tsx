@@ -71,7 +71,7 @@ export function Navbar() {
               className="block border-1 py-1.5 pl-7 pr-20 text-black ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 sm:text-sm sm:leading-6"
               placeholder="pesquisar"
             />
-            <Button className="rounded-none" placeholder="buscar" variant="filled" style={{ backgroundColor: pathy === "/camisetas" ? "#00A8A9" : "#CB0D1F" }}>
+            <Button className="rounded-none" placeholder="buscar" variant="filled" style={{ backgroundColor: pathy !== "/" ? "#00A8A9" : "#CB0D1F" }}>
               Buscar
             </Button>
           </div>
