@@ -25,7 +25,7 @@ Aqui o projeto será inicializado e estará disponível em: [http://localhost:30
 
 #### A aplicação:
 
-Em quase toda sua totalidade, repliquei o Layout fornecido para esse desafio. Por estar utilizando alguns frameworks, tem alguns componentes que dei uma alterada. Além disso, havia alguns conflitos entre o layout e os jsons fornecidos. Portanto, eu alterei um pouco os dados passados para ter uma maior fidelidade. Por conta de estar utilizando o Json Server, eu também precisei juntar todos os 4 arquivos jsons que foram fornecidos em 1. Todas as informações se mantiveram de forma separada, mas tive que fazer isso para uma melhor performace nas tecnologias que utilizei.
+Em quase toda sua totalidade, repliquei o Layout fornecido para esse desafio. Por estar utilizando alguns frameworks, tem alguns componentes que dei uma alterada. Além disso, havia alguns conflitos entre o layout e os jsons fornecidos. Portanto, eu alterei um pouco os dados passados para ter uma maior fidelidade. Por conta de estar utilizando o Json Server, eu também precisei juntar todos os 4 arquivos jsons que foram fornecidos em 1. Todas as informações se mantiveram de forma separada, mas tive que fazer isso para uma melhor performance nas tecnologias que utilizei.
 
 Por fim, apesar de ter passado apenas o layout de uma tela de produtos, a de sapato, eu tomei a liberdade e criei as outras duas de camisetas e calças. Todas as rotas da navbar funcionam, até a de contato.
 
@@ -33,6 +33,8 @@ Por fim, apesar de ter passado apenas o layout de uma tela de produtos, a de sap
 
 O Front-End foi colocado no ar com a ajuda do Vercel, segue o link:
 [https://web-frontend-chex77wia-marcos-projects-4833e144.vercel.app/](https://web-frontend-chex77wia-marcos-projects-4833e144.vercel.app/)
+
+OBS: Como estou utilizando recursos gratuitos para esses deploys, pode ser que algumas informações e links demorem de carregar um pouco.
 
 Também foi feito o deploy do Back-End, seguem os links para as requisições da API:
 
