@@ -1,5 +1,7 @@
 # webjump-desafio
 
+Link para o desafio: https://bitbucket.org/webjump/assessment-frontend/src
+
 ### Tecnologias Utilizadas
 
 Olá, para a construção desse projeto foi utilizado, no Front-End, a biblioteca ReactJs em conjunto com o framework NextJs e o Typescript. Para o CSS, usei o framework Tailwild. Todas essas ferramentas foram encapsuladas com o uso do Tailwind Material UI. O "backend" foi simulado pelo Json Server, que age como uma API para jsons. A fim de fazer essas requisições, para esse protótipo de API, foi utilizado o Axios.
